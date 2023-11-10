@@ -1,0 +1,6 @@
+.netlify
+node_modules
+.env
+npminstall-debug.log
+pnpm-lock.yaml
+.vercel
